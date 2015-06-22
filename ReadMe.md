@@ -8,7 +8,7 @@ showing by default. Feel free to look around.
 Over on the right is a panel for issues (GitHub issues) that you can 
 connect to a line of code, a few lines of code, or a whole pull request. 
 
-**To open an issue about a line of code**
+**To open an issue about a line of code**asd
 1. Click on a line number.
 2. Enter a Title and Description and click **Submit**.
 
